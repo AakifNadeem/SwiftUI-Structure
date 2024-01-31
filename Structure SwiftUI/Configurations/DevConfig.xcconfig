@@ -1,0 +1,8 @@
+//
+//  DevConfig.xcconfig
+//
+//  Created by Aakif Nadeem on 30/01/2023.
+//
+
+
+base_url = https:\/\/www.google.com/api/

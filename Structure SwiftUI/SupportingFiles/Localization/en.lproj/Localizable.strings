@@ -1,0 +1,9 @@
+/* 
+  Localizable.strings
+
+  Created by Aakif Nadeem on 20/12/2023.
+  
+*/
+
+//MARK: SignUp
+"main_title" = "Main Title";
